@@ -18,15 +18,15 @@ class Person
 end
 
 # new instance of an object
-jake = Person.new('jake', 45 )
-jack = Person.new(45, 'jack')
-jill = Person.new('jill', 23)
-p jake
-p jack
-p jill
-puts jake.name
-puts jake.age  
-puts jill.name
-puts jill.age 
-jake.increase_age(3) 
-puts jake.age
+# jake = Person.new('jake', 45 )
+# jack = Person.new(45, 'jack')
+# jill = Person.new('jill', 23)
+# p jake
+# p jack
+# p jill
+# puts jake.name
+# puts jake.age  
+# puts jill.name
+# puts jill.age 
+# jake.increase_age(3) 
+# puts jake.age
